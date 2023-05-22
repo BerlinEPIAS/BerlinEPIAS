@@ -2,7 +2,7 @@
 - 👀 I’m interested in: programming languages like Python and Lua
 - 🌱 I’m currently learning: Python
 - 💞️ I’m looking to collaborate on: my Echoes of Destiny Project
-- 📫 How to reach me: email me!
+- 📫 How to reach me: email me! epiasberlin@gmail.com
 
 <!---
 BerlinEPIAS/BerlinEPIAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
