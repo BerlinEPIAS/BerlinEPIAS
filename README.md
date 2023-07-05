@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BerlinEPIAS
-- 👀 I’m interested in: programming languages like Python and Lua
-- 🌱 I’m currently learning: Python
-- 💞️ I’m looking to collaborate on: my Echoes of Destiny Project
+- 👀 I’m interested in: C++ projects
+- 🌱 I’m currently learning: C++
+- 💞️ I’m looking to collaborate on: 
 - 📫 How to reach me: email me! epiasberlin@gmail.com
 
 <!---
